@@ -1,0 +1,1 @@
+- [Analyzing UEFI BIOSes from Attacker & Defender Viewpoints](https://youtu.be/CGBpil0S5NI)
