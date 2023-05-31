@@ -1,0 +1,1 @@
+- [Embedded Linux Booting Process (Multi-Stage Bootloaders, Kernel, Filesystem)](https://youtu.be/DV5S_ZSdK0s)
